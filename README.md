@@ -9,9 +9,9 @@ Expo logos can be used to represent Expo and our products. If you need a particu
 The Expo trademark includes the Expo name and logo, and any word, phrase, image, or other designation that identifies any Expo products. Do not modify the trademarks or use them in an altered way, including suggesting sponsorship or endorsement by Expo, or in a way that confuses Expo with another brand. In other words, the Expo name and logos represent only Expo and should not be used to represent you or your projects, products, or company.
 
 You're encouraged to:
-- Use the permitted Expo name and logos less prominently than your own name and logo to describe that you are using an Expo product. For example: "This app is made using Expo and EAS.".
-- Use a permitted Expo logo to inform others that your project integrates with Expo or EAS. For example: "AwesomeService now works with Expo Router.".
-- Use the permitted Expo name and logos in a blog post, video or news article about Expo.
+- Use the permitted Expo name and logos less prominently than your own name and logo to describe that you are using an Expo product. For example: "This app is made using Expo and EAS".
+- Use a permitted Expo logo to inform others that your project integrates with Expo or EAS. For example: "AwesomeService now works with Expo Router".
+- Use the permitted Expo name and logos in a blog post, video, or news article about Expo.
 
 Please don't:
 
